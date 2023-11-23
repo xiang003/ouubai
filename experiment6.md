@@ -6,9 +6,9 @@
 
 姓名： 曾令翔
 
-Github地址：<https://github.com/yourusername/python_course>
+Github地址：<https://github.com/xiang003/ouubai>
 
-CodeWars地址：<https://www.codewars.com/users/yourusername>
+CodeWars地址：<https://www.codewars.com/users/ouubai>
 
 ---
 
